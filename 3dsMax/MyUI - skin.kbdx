@@ -524,7 +524,7 @@
     <shortcut fVirt="3" accleleratorKey="82" actionID="Scale`Tools" actionTableID="647394" />
     <shortcut fVirt="3" accleleratorKey="48" actionID="BakeDialog`Render" actionTableID="647394" />
     <shortcut fVirt="11" accleleratorKey="67" actionID="CopyWeights`Skin Modifier" actionTableID="647394" />
-    <shortcut fVirt="3" accleleratorKey="38" actionID="WalkThroughToggle`Views" actionTableID="647394" />
+    <shortcut fVirt="3" accleleratorKey="38" actionID="selectParent`Skin Modifier" actionTableID="647394" />
     <shortcut fVirt="11" accleleratorKey="49" actionID="TVCustom_Attributes`Track View" actionTableID="647394" />
     <shortcut fVirt="19" accleleratorKey="50" actionID="ParamCollectorShow`Parameter Collector" actionTableID="647394" />
     <shortcut fVirt="19" accleleratorKey="51" actionID="ParamCollectorSchematicView`Parameter Collector" actionTableID="647394" />
@@ -559,4 +559,6 @@
     <shortcut fVirt="3" accleleratorKey="49" actionID="SetWeight_100`Skin Modifier" actionTableID="647394" />
     <shortcut fVirt="19" accleleratorKey="49" actionID="SetWeight_00`Skin Modifier" actionTableID="647394" />
     <shortcut fVirt="19" accleleratorKey="70" actionID="SetWeight_50`Skin Modifier" actionTableID="647394" />
+    <shortcut fVirt="3" accleleratorKey="65" actionID="SelectSelectionSetbyMember`DragAndDrop" actionTableID="647394" />
+    <shortcut fVirt="3" accleleratorKey="40" actionID="selectChild`Skin Modifier" actionTableID="647394" />
 </ADSK_KBD>
