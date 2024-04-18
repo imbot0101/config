@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MaxHotkeyTransformations Locked="false">
+    <Assign_Hotkey Shortcut="F" Id="0-310"/>
+    <Assign_Hotkey Shortcut="Alt+Z" Id="0-40016"/>
+    <Assign_Hotkey Shortcut="Shift+G" Id="0-415"/>
+    <Assign_Hotkey Shortcut="Z" Id="0-40015"/>
+    <Assign_Hotkey Shortcut="Q" Id="0-50027"/>
+    <Assign_Hotkey Shortcut="Alt+D" Id="0-40180"/>
+    <Assign_Hotkey Shortcut="4" Id="0-40062"/>
+    <Assign_Hotkey Shortcut="3" Id="0-40060"/>
+    <Assign_Hotkey Shortcut="2" Id="0-40061"/>
+    <Assign_Hotkey Shortcut="5" Id="0-40064"/>
+    <Assign_Hotkey Shortcut="S" Id="0-40800"/>
+    <Assign_Hotkey Shortcut="S" Id="972555510-40015"/>
+    <Assign_Hotkey Shortcut="Alt+C" Id="647394-ScaleWeight_Down`Skin Modifier"/>
+    <Assign_Hotkey Shortcut="R" Id="647394-Scale`Tools"/>
+    <Assign_Hotkey Shortcut="Ctrl+C" Id="647394-CopyWeights`Skin Modifier"/>
+    <Assign_Hotkey Shortcut="X" Id="647394-RemoveZeroWeights`Skin Modifier"/>
+    <Assign_Hotkey Shortcut="Space" Id="647394-SkinLoopSelection`Skin Modifier"/>
+    <Assign_Hotkey Shortcut="G" Id="647394-SkinGrowSelection`Skin Modifier"/>
+    <Assign_Hotkey Shortcut="V" Id="647394-AddWeight`Skin Modifier"/>
+    <Assign_Hotkey Shortcut="C" Id="647394-SubtractWeight`Skin Modifier"/>
+    <Assign_Hotkey Shortcut="Ctrl+V" Id="647394-PasteWeights`Skin Modifier"/>
+    <Assign_Hotkey Shortcut="Alt+V" Id="647394-ScaleWeight_Up`Skin Modifier"/>
+    <Assign_Hotkey Shortcut="Alt+X" Id="647394-ScaleWeight_Custom`Skin Modifier"/>
+    <Unassign_Hotkey Shortcut="S" Id="43597487-40123"/>
+    <Unassign_Hotkey Shortcut="S" Id="817457935-40012"/>
+    <Unassign_Hotkey Shortcut="S" Id="369891408-55560"/>
+    <Unassign_Hotkey Shortcut="S" Id="1127307088-17"/>
+    <Unassign_Hotkey Shortcut="Down" Id="1127307088-17"/>
+    <Unassign_Hotkey Shortcut="X" Id="39081-32653"/>
+    <Unassign_Hotkey Shortcut="A" Id="0-40074"/>
+    <Unassign_Hotkey Shortcut="B" Id="0-40063"/>
+    <Unassign_Hotkey Shortcut="C" Id="0-40068"/>
+    <Unassign_Hotkey Shortcut="D" Id="0-40126"/>
+    <Unassign_Hotkey Shortcut="F" Id="0-40060"/>
+    <Unassign_Hotkey Shortcut="K" Id="0-40800"/>
+    <Unassign_Hotkey Shortcut="S" Id="0-40072"/>
+    <Unassign_Hotkey Shortcut="Alt+B" Id="0-40095"/>
+    <Unassign_Hotkey Shortcut="G" Id="0-40077"/>
+    <Unassign_Hotkey Shortcut="Alt+X" Id="0-373"/>
+    <Unassign_Hotkey Shortcut="Ctrl+V" Id="0-40213"/>
+    <Unassign_Hotkey Shortcut="Alt+Z" Id="0-50013"/>
+    <Unassign_Hotkey Shortcut="Space" Id="0-59231"/>
+    <Unassign_Hotkey Shortcut="Shift+G" Id="0-40190"/>
+    <Unassign_Hotkey Shortcut="Alt+D" Id="0-40904"/>
+    <Unassign_Hotkey Shortcut="Alt+S" Id="0-40906"/>
+    <Unassign_Hotkey Shortcut="Alt+A" Id="0-40113"/>
+    <Unassign_Hotkey Shortcut="Z" Id="0-310"/>
+    <Unassign_Hotkey Shortcut="S" Id="1-2000"/>
+    <Unassign_Hotkey Shortcut="S" Id="5-500"/>
+    <Unassign_Hotkey Shortcut="Q" Id="5-500"/>
+    <Unassign_Hotkey Shortcut="S" Id="6-40709"/>
+    <Unassign_Hotkey Shortcut="S" Id="972555508-40004"/>
+    <Unassign_Hotkey Shortcut="V" Id="972555510-40007"/>
+    <Unassign_Hotkey Shortcut="Alt+C" Id="647394-EPoly_Cut`Editable Polygon Object"/>
+    <Unassign_Hotkey Shortcut="1" Id="647394-SubObject_1`Modifier Stack"/>
+    <Unassign_Hotkey Shortcut="2" Id="647394-SubObject_2`Modifier Stack"/>
+    <Unassign_Hotkey Shortcut="3" Id="647394-SubObject_3`Modifier Stack"/>
+    <Unassign_Hotkey Shortcut="4" Id="647394-SubObject_4`Modifier Stack"/>
+    <Unassign_Hotkey Shortcut="R" Id="647394-SmartScale`Tools"/>
+    <Unassign_Hotkey Shortcut="5" Id="647394-SubObject_5`Modifier Stack"/>
+    <Unassign_Hotkey Shortcut="Ctrl+C" Id="647394-PhysicalCamera_CreateFromView`Lights and Cameras"/>
+    <Unassign_Hotkey Shortcut="Q" Id="647394-SmartSelect`Selection"/>
+    <Unassign_Hotkey Shortcut="V" Id="1261319018-Viewports"/>
+    <Unassign_Hotkey Shortcut="Alt+Z" Description="使用缩放工具" Id="5-700"/>
+    <Unassign_Hotkey Shortcut="Alt+Z" Description="缩放" Id="2077580866-45326"/>
+    <Unassign_Hotkey Shortcut="Alt+Z" Description="缩放" Id="1-2200"/>
+    <Assign_Hotkey Shortcut="1" Description="将权重设置为 1.0 (蒙皮)" Id="647394-SetWeight_100`Skin Modifier"/>
+    <Unassign_Hotkey Shortcut="Alt+1" Description="Swift 循环" Id="647394-SwiftLoop`PolyTools"/>
+    <Assign_Hotkey Shortcut="Alt+1" Description="将权重设置为 0.0( 蒙皮)" Id="647394-SetWeight_00`Skin Modifier"/>
+    <Unassign_Hotkey Shortcut="Up" Description="穿行视图模式" Id="647394-WalkThroughToggle`Views"/>
+    <Assign_Hotkey Shortcut="Up" Description="选择父级骨骼(蒙皮)" Id="647394-selectParent`Skin Modifier"/>
+    <Assign_Hotkey Shortcut="Down" Description="选择子级骨骼(蒙皮)" Id="647394-selectChild`Skin Modifier"/>
+    <Assign_Hotkey Shortcut="Alt+A" Description="选择类似对象" Id="0-40099"/>
+    <Unassign_Hotkey Shortcut="Shift+F" Description="拉直边缘" Id="2077580866-40263"/>
+    <Unassign_Hotkey Shortcut="Shift+F" Description="视口安全框切换" Id="0-219"/>
+    <Assign_Hotkey Shortcut="Alt+F" Description="将权重设置为 0.5 (蒙皮)" Id="647394-SetWeight_50`Skin Modifier"/>
+    <Unassign_Hotkey Shortcut="Q" Description="自由形式模式" Id="2077580866-40087"/>
+    <Unassign_Hotkey Shortcut="Q" Description="加速切换" Id="1127307088-42"/>
+    <Unassign_Hotkey Shortcut="Q" Description="选择" Id="1909744250-40008"/>
+    <Unassign_Hotkey Shortcut="Q" Description="选择对象" Id="6-40709"/>
+</MaxHotkeyTransformations>
